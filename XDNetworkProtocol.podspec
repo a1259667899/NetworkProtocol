@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "XDNetworkProtocol"
   s.version      = "0.0.1"
-  s.summary      = "A short description of XDNetworkProtocol."
+  s.summary      = "一个关于网络请求的协议扩展实现"
   
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                    DESC
 
-  s.homepage     = "http://EXAMPLE/XDNetworkProtocol"
+  s.homepage     = "http://www.baidi.com"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://EXAMPLE/XDNetworkProtocol.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/a1259667899/NetworkProtocol.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
